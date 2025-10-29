@@ -429,6 +429,10 @@ body {
 }
 
 @media (max-width: 766.98px) {
+  .get-started__container {
+    padding: 150px 15px 50px 15px;
+  }
+
   .get-started__container::before {
     display: none;
   }
