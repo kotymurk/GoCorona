@@ -520,13 +520,13 @@ body {
   left: 12px;
   width: 206px;
   height: 27px;
-  z-index: 2;
   background: rgba(240, 240, 240, 0.49);
   border-radius: 16px;
 }
 
 .media-stay-safe__item {
   position: absolute;
+  z-index: 1;
   background-color: #ec5863;
   border-radius: 30px;
   width: 77px;
@@ -869,8 +869,8 @@ body {
   padding: 45px 0;
 }
 
-.footer__container {
-}
+/* .footer__container {
+} */
 
 .footer__items {
   display: flex;
@@ -880,8 +880,8 @@ body {
   align-items: center;
 }
 
-.footer__item {
-}
+/* .footer__item {
+} */
 
 @media (max-width: 500px) {
   .footer {
