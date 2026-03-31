@@ -29,3 +29,4 @@ GoCorona — Современный адаптивный лендинг
 1. Клонировать репозиторий:
    `bash
    git clone [https://github.com/kotymurk/GoCorona.git](https://github.com/kotymurk/GoCorona.git)
+2. Открыть index.html в браузере или использовать расширение Live Server в VS Code.
